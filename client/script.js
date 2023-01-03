@@ -128,6 +128,3 @@ form.addEventListener("keyup", (e) => {
 
 // now we getting ready to create our own backend application that going to be make
 //   a call to the open AIs chatGPT API
-
-
-// fpffg2@gmail.com,   Qwertyuipo1@
